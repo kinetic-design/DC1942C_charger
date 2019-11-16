@@ -1,7 +1,7 @@
 // DC1942C_charger_spi.ino
 //
-// Written by Steve Schulz on 13 August 2018
-// Tier 1 Engineering, Santa Ana California
+// Written by Steve Schulz on 13 August 2015
+// Kinetic Design LLC
 //
 // Sketch for an Arduino UNO board that controls the undervoltage
 // flag (UVF) and overvoltage flag (OVF)  lines of a Manzanita Micro
